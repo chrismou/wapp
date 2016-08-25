@@ -1,0 +1,20 @@
+{
+  "name": "wapp",
+  "description": "A simple WhatsApp desktop client",
+  "main": "app/main.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chrismou/wapp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
