@@ -1,0 +1,10 @@
+{
+  "name": "wapp",
+  "dest": "dist/installers/",
+  "icon": "assets/icon.png",
+  "categories": [
+    "Utility", "Messaging"
+  ],
+  "bin": "wapp",
+  "ignore": "dist"
+}
