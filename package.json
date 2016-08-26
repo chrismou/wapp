@@ -3,7 +3,7 @@
   "productName": "WApp",
   "version": "0.1.0",
   "description": "A simple WhatsApp desktop client",
-  "homepage": "https://github.com/chrismou/ginbox",
+  "homepage": "https://github.com/chrismou/wapp",
   "repository" : {
     "type" : "git",
     "url" : "https://github.com/chrismou/wapp.git"
